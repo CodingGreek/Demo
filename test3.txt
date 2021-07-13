@@ -1,2 +1,2 @@
 this is test3.txt file filr for --no-ff
-
+this is correct statement for merge conflict
