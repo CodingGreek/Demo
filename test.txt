@@ -1,3 +1,4 @@
 Line 1
 diff command concept
 lin 2
+added line 4 to test txt file for ammend option
