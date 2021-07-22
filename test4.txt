@@ -1,3 +1,4 @@
 new text 4 file
 some commit linw 
 some commit line
+added a line to demo the stash command with save message
