@@ -3,5 +3,5 @@ diff command concept
 lin 2
 added line 4 to test txt file for ammend option
 added line 5 
-added new line
+added new line for pull operation
 
